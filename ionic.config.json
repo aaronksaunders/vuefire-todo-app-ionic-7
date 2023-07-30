@@ -1,0 +1,7 @@
+{
+  "name": "vuefire-app-ionic7",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
